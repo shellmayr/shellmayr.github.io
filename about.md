@@ -3,24 +3,8 @@ layout: page
 title: About
 ---
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hi, I'm Simon. I'm a student at Vienna's University of Technology, studying Electrical Engineering with a focus on telecommunications.
 
-There are currently two themes built on Poole:
+I'm very interested in everything and anything that combines the sciences with the arts and humanities, as well as skillful and high-quality realizations of either of them. If you happen to be in Vienna and would like to meet up for a cup of coffee and an exchange of ideas, feel free to drop me a line: simon.hellmayr@gmail.com.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Find me on [Twitter](https://www.twitter.com/shellmayr), [Instagram](https://www.instagram.com/shellmayr) and [Facebook](https://www.facebook.com/s.hellmayr).
