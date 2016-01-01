@@ -10,6 +10,9 @@ tagline:             Things and Stuff
 url:                 http://shellmayr.github.io
 paginate:            1
 baseurl:             ""
+pages_list:
+  About: '/about'
+  Archive: '/archive'
 
 # Assets
 #
